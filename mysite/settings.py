@@ -25,7 +25,7 @@ SECRET_KEY = 'hz64o#me9w7t@)do*fv320b6uj(z3of*wuswgzn)$t+8@3u@vk'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<dbquiroga>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'dbquiroga.pythonanywhere.com']
 
 
 # Application definition
